@@ -1,0 +1,48 @@
+<style type="text/css">
+		
+		h1 {
+			text-indent: 550px	
+		}
+
+		p {
+			color: white
+		}
+
+		/**/
+		p {
+			text-indent: 20px
+
+		}
+
+		h1 {
+			color: blue
+		}
+
+		h2 {
+			color: hsl(0, 100%, 50%)
+		}
+		.span1 {
+			color: green
+		}
+		.span2 {
+			color: red
+		}
+		.bmw {
+			font-size: width: 100px;
+			height: 100px
+		}
+		a {
+			color: red
+		}
+		.bmw1 {
+			font-size: width: 100px;
+			height: 100px
+		}
+		.active {
+			color: green
+		}
+		.inactive { 
+			color: red
+		 }
+
+	</style>
